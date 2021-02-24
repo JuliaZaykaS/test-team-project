@@ -1,4 +1,15 @@
+.display {
+  display: block;
+}
 .font-style {
-  font-weight: 500;
-  color: yellowgreen;
+  font-weight: 700;
+  background-color: powderblue;
+  color: pink;
+}
+
+.velvet {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
 }
